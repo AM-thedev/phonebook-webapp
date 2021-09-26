@@ -1,0 +1,1 @@
+Fullstack implementation of an online phonebook allowing people to be added or removed, data is saved to a database.
